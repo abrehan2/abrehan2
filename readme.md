@@ -36,6 +36,6 @@
 <p align="left">Greetings, This is Rehan from Islamabad, Pakistan. I'm a third-year software engineering student pursuing the MERN stack development. I have always been passionate about the web and its related tools. It helps to work on my logic building alongside improving my debugging skills. Throughout my learning process, I have always preferred developing custom projects utilizing recommended industrial practices and software development approaches. Crafting ideas into web-based realities has always fascinated me to deliver beyond the constraint<p/>	
 
 <div><div/>
-<!--- adding 3D earth icon to show some love for the environment 🌏 --->
+  
  <a href="https://www.linkedin.com/in/abrehan/" target="_blank">
  <img alt="Abdul Rehan | linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
