@@ -7,16 +7,14 @@
 <!--- a bit of vertical space & languages text --->
 <div>&nbsp;</div>
 <h1 align="center">
-  TOOLS & TECHNOLOGIES
+TOOLS & TECHNOLOGIES
 </h1>
 
 <div></div>
   
 <!--- language icons --->
 <p align="center">
-<a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,mui,nodejs,expressjs,mongodb,mysql,firebase,redux,regex,postman,netlify,vercel" />
-</a>
 </p>
  
 <div>&nbsp;</div>
@@ -30,4 +28,4 @@ ABOUT ME
 <div><div/>
   
 <a href="https://www.linkedin.com/in/abrehan/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" /> </a>
+<img src="https://skillicons.dev/icons?i=linkedin" /></a>
