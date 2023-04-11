@@ -24,7 +24,7 @@ TOOLS & TECHNOLOGIES
 ABOUT ME
 </h1>	
  
-<p align="left"><b>Greetings, fellow developers! I am a third-year software engineering student pursuing MERN Stack Development. I have always been passionate about web development and its related tools. Throughout my learning process, I have always preferred developing custom projects utilizing recommended industrial practices and software development approaches. Crafting ideas into web-based realities has always fascinated me, and I strive to deliver beyond the constraints. I started practicing and gaining hands-on experience since 2021, which includes multiple internships at different organizations. Moreover, I am a Meta and LinkedIn certified MERN Stack Developer, having obtained certifications from these organizations. I have always believed that rushing to learn is a waste, instead of practicing what has been learned.</b><p/>	
+<p align="left"><b>Greetings, fellow developers! I am a third-year software engineering student pursuing MERN stack development. I have always been passionate about web development and its related tools. I started practicing and gaining hands-on experience since 2021, which includes learning from resources, developing custom projects, and doing multiple internships at different organizations. Throughout my learning process, I have preferred developing custom projects utilizing recommended industrial practices and software development approaches. Moreover, I am a Meta and LinkedIn certified MERN Stack Developer, having obtained certifications from these organizations. Crafting ideas into web-based realities has always fascinated me, and I strive to deliver beyond the constraints.</b><p/>	
 
 <div align="right">
 <img src="https://iili.io/Hkr7GMQ.webp" width="200" height="200"/>
