@@ -15,7 +15,7 @@ TOOLS & TECHNOLOGIES
 <!--- language icons --->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,nextjs,typescript,redux,regex,nodejs,expressjs,mongodb,firebase,postman,netlify,vercel" /></a></p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,python,react,nextjs,typescript,redux,regex,nodejs,expressjs,mongodb,firebase,postman,netlify,vercel" /></a></p>
  
 <div>&nbsp;</div>
 
