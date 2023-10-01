@@ -31,7 +31,7 @@ Crafting ideas into web-based realities is my forte, which enables me to possess
 • <b>Front-End:</b> HTML, CSS, Bootstrap, React.js, Redux, Next.js, Chakra UI, and Antd<br>
 • <b>Back-End:</b> Node.js, Express.js, MongoDB, Firebase, and REST APIs<br>
 • <b>Tools:</b> Postman, Netlify, and Vercel<br><br>
-Furthermore, I am a Microsoft Learn Student Ambassador, which fosters my involvement in a diverse community of individuals belonging to different races and sharing different experiences. I have been involved in consulting people, helping them get started with web development by hosting hands-on workshops on React.js, REST APIs, and several others. Similarly, I'm also a Postman Student Expert, which demonstrates my expertise in API testing.  
+Furthermore, I am a Microsoft Learn Student Ambassador, which fosters my involvement in a diverse community of individuals belonging to different races and sharing different experiences. I have been engaged in consulting people, helping them get started with web development by hosting hands-on workshops on React.js, REST APIs, and several others. Similarly, I'm also a Postman Student Expert, which demonstrates my expertise in API testing.  
 </p>	
 </div>
 <div align="right">
