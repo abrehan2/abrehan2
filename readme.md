@@ -1,16 +1,10 @@
-<div align="center" width="50">
-  
+<!-- HEADER -->
 ![gheader](https://iili.io/HO2glqX.jpg)
-  
-<div align="center">
-  
-<!--- a bit of vertical space & languages text --->
+
 <div>&nbsp;</div>
 <h1 align="center">
 TOOLS & TECHNOLOGIES
 </h1>
-
-<div></div>
   
 <!--- language icons --->
 <p align="center">
@@ -34,6 +28,13 @@ Crafting ideas into web-based realities is my forte, which enables me to possess
 Furthermore, I am a Microsoft Learn Student Ambassador, which fosters my involvement in a diverse community of individuals belonging to different races and sharing different experiences. I have been engaged in consulting people, helping them get started with web development by hosting hands-on workshops on React.js, REST APIs, and several others. Similarly, I'm also a Postman Student Expert, which demonstrates my expertise in API testing.  
 </p>	
 </div>
-<div align="right">
+<!-- <div align="right">
 <img src="https://iili.io/Hkr7GMQ.webp" width="200" height="200"/>
-<div/>
+<div/> -->
+<div>&nbsp;</div>
+
+<h1 align="center">
+HOLOPIN BADGES
+</h1>
+
+[![An image of @singodiyashubham87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abrehan2)](https://holopin.io/@abrehan2)
