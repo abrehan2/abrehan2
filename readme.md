@@ -1,5 +1,5 @@
 <!-- HEADER -->
-![gheader](https://iili.io/HO2glqX.jpg)
+![gheader](https://iili.io/J7HaOFV.png)
 
 <div>&nbsp;</div>
 <h1 align="center">
