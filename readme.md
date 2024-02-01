@@ -19,7 +19,7 @@ ABOUT ME
 
 <div>
 <p align="left">
-Hello 👋, I'm Rehan, a final-year software engineering student from Air University, Islamabad. Since 2021, I have been gaining hands-on experience in MERN Stack development by learning from various resources and developing custom projects according to industrial standards, with a particular focus on software development. I have always been intrigued by open-source contributions and have enabled myself to contribute beyond the constraints.<br><br>
+Hello 👋, I'm Rehan, a final-year software engineering student from Air University, Islamabad. Since 2021, I have been gaining hands-on experience in full-stack development by learning from various resources and developing custom projects according to industrial standards, with a particular focus on software development. I have always been intrigued by open-source contributions and have enabled myself to contribute beyond the constraints.<br><br>
 Crafting ideas into web-based realities is my forte, which enables me to possess the following skills:<br>
 • <b>Programming Languages:</b> JavaScript, TypeScript, and Python<br>
 • <b>Front-End:</b> HTML, CSS, Bootstrap, React.js, Redux, Next.js, Chakra UI, Material UI, and Antd<br>
