@@ -29,7 +29,7 @@ During my time at university, I always sought ways to use Visual Studio Code dur
 
 I have released two npm packages: 'use-countries-hook', built with React.js, and 'geospatial-toolkit', built with Node.js. Each carries a distinct purpose and contributes to the developer community. 
 
-<b>My expertise:</b> </br>
+My expertise: </br>
 • 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: JavaScript, TypeScript, and Python </br>
 • 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱: HTML, CSS, Bootstrap, Tailwind CSS, React.js, Redux, Next.js, and Zustand </br> 
 • 𝗕𝗮𝗰𝗸-𝗘𝗻𝗱: Node.js, Express.js, MongoDB, Firebase, and Web Sockets </br>
