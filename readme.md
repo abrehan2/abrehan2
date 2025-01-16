@@ -9,7 +9,7 @@ TOOLS & TECHNOLOGIES
 <!--- language icons --->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,python,cpp,react,nextjs,typescript,redux,regex,nodejs,nestjs,expressjs,mongodb,firebase,mysql,postman,docker,jest,netlify,vercel" /></a></p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,python,cpp,react,nextjs,typescript,redux,regex,nodejs,nestjs,expressjs,mongodb,firebase,mysql,postgresql,postman,docker,jest,netlify,vercel" /></a></p>
  
 <div>&nbsp;</div>
 
