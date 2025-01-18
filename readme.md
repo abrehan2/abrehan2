@@ -46,4 +46,4 @@ My expertise: </br>
 HOLOPIN BADGES
 </h1>
 
-[![An image of @singodiyashubham87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abrehan2)](https://holopin.io/@abrehan2)
+[![An image of Rehan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abrehan2)](https://holopin.io/@abrehan2)
